@@ -4,7 +4,7 @@ AI-Powered Scam Job Post Analyzer using NLP & Machine Learning
 ---
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app](https://fakejobsdetection-jgah5xrk36fhcn9d8gujun.streamlit.app/
+👉 https://fakejobsdetection-jgah5xrk36fhcn9d8gujun.streamlit.app/
 
 ## 📌 Overview
 
